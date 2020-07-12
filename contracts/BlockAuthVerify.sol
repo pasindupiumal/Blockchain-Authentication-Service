@@ -42,6 +42,17 @@ contract BlockAuthVerify {
         return false;
     }
 
+    function usernameAvailable(string memory username) public view returns (bool) {
+
+        if (reverse_usernames[username] == 0x0000000000000000000000000000000000000000) {
+
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+
     function getUsername(address user_address) public view returns (string memory) {
         return usernames[user_address];
     }
