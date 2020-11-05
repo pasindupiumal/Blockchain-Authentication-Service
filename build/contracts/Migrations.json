@@ -53,15 +53,15 @@
       "type": "function"
     }
   ],
-  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"constant\":true,\"inputs\":[],\"name\":\"last_completed_migration\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"owner\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"completed\",\"type\":\"uint256\"}],\"name\":\"setCompleted\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/D/Programming/Active Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol\":\"Migrations\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"/D/Programming/Active Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol\":{\"keccak256\":\"0x72a2d9de41800dbbebac4bddc9a238a77948dc085da0a8b7ca344d77973f85fa\",\"urls\":[\"bzz-raw://fccf4d29ca704457efb83c62eb3f635ce4da1d7e75e8472360dca146a3f45d23\",\"dweb:/ipfs/QmeE1qPyY6capAN1znBwSjEu46ordRxq9W9xMJFA8RvXwz\"]}},\"version\":1}",
-  "bytecode": "0x608060405234801561001057600080fd5b50600080546001600160a01b0319163317905560fc806100316000396000f3fe6080604052348015600f57600080fd5b5060043610603c5760003560e01c8063445df0ac1460415780638da5cb5b146059578063fdacd57614607b575b600080fd5b60476097565b60408051918252519081900360200190f35b605f609d565b604080516001600160a01b039092168252519081900360200190f35b609560048036036020811015608f57600080fd5b503560ac565b005b60015481565b6000546001600160a01b031681565b6000546001600160a01b031633141560c45760018190555b5056fea265627a7a72315820f7f69abdb68b92632a725963aaba3fb13daf31110f7e4ba36a2f15b12450b0aa64736f6c63430005100032",
-  "deployedBytecode": "0x6080604052348015600f57600080fd5b5060043610603c5760003560e01c8063445df0ac1460415780638da5cb5b146059578063fdacd57614607b575b600080fd5b60476097565b60408051918252519081900360200190f35b605f609d565b604080516001600160a01b039092168252519081900360200190f35b609560048036036020811015608f57600080fd5b503560ac565b005b60015481565b6000546001600160a01b031681565b6000546001600160a01b031633141560c45760018190555b5056fea265627a7a72315820f7f69abdb68b92632a725963aaba3fb13daf31110f7e4ba36a2f15b12450b0aa64736f6c63430005100032",
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"constant\":true,\"inputs\":[],\"name\":\"last_completed_migration\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"owner\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"completed\",\"type\":\"uint256\"}],\"name\":\"setCompleted\",\"outputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/D/Programming/Active_Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol\":\"Migrations\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"/D/Programming/Active_Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol\":{\"keccak256\":\"0x72a2d9de41800dbbebac4bddc9a238a77948dc085da0a8b7ca344d77973f85fa\",\"urls\":[\"bzz-raw://fccf4d29ca704457efb83c62eb3f635ce4da1d7e75e8472360dca146a3f45d23\",\"dweb:/ipfs/QmeE1qPyY6capAN1znBwSjEu46ordRxq9W9xMJFA8RvXwz\"]}},\"version\":1}",
+  "bytecode": "0x608060405234801561001057600080fd5b50600080546001600160a01b0319163317905560fc806100316000396000f3fe6080604052348015600f57600080fd5b5060043610603c5760003560e01c8063445df0ac1460415780638da5cb5b146059578063fdacd57614607b575b600080fd5b60476097565b60408051918252519081900360200190f35b605f609d565b604080516001600160a01b039092168252519081900360200190f35b609560048036036020811015608f57600080fd5b503560ac565b005b60015481565b6000546001600160a01b031681565b6000546001600160a01b031633141560c45760018190555b5056fea265627a7a72315820a2db7f1e1c973070cefee978d2177b8a131290b688a2a8eb3f4507abe51f856b64736f6c63430005100032",
+  "deployedBytecode": "0x6080604052348015600f57600080fd5b5060043610603c5760003560e01c8063445df0ac1460415780638da5cb5b146059578063fdacd57614607b575b600080fd5b60476097565b60408051918252519081900360200190f35b605f609d565b604080516001600160a01b039092168252519081900360200190f35b609560048036036020811015608f57600080fd5b503560ac565b005b60015481565b6000546001600160a01b031681565b6000546001600160a01b031633141560c45760018190555b5056fea265627a7a72315820a2db7f1e1c973070cefee978d2177b8a131290b688a2a8eb3f4507abe51f856b64736f6c63430005100032",
   "sourceMap": "69:326:1:-;;;162:52;8:9:-1;5:2;;;30:1;27;20:12;5:2;-1:-1;190:5:1;:18;;-1:-1:-1;;;;;;190:18:1;198:10;190:18;;;69:326;;;;;;",
   "deployedSourceMap": "69:326:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;69:326:1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;119:36;;;:::i;:::-;;;;;;;;;;;;;;;;94:20;;;:::i;:::-;;;;-1:-1:-1;;;;;94:20:1;;;;;;;;;;;;;;287:105;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;-1:-1;287:105:1;;:::i;:::-;;119:36;;;;:::o;94:20::-;;;-1:-1:-1;;;;;94:20:1;;:::o;287:105::-;267:5;;-1:-1:-1;;;;;267:5:1;253:10;:19;249:26;;;350:24;:36;;;249:26;287:105;:::o",
   "source": "// SPDX-License-Identifier: MIT\r\npragma solidity >=0.4.21 <0.7.0;\r\n\r\ncontract Migrations {\r\n  address public owner;\r\n  uint public last_completed_migration;\r\n\r\n  constructor() public {\r\n    owner = msg.sender;\r\n  }\r\n\r\n  modifier restricted() {\r\n    if (msg.sender == owner) _;\r\n  }\r\n\r\n  function setCompleted(uint completed) public restricted {\r\n    last_completed_migration = completed;\r\n  }\r\n}\r\n",
-  "sourcePath": "D:/Programming/Active Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol",
+  "sourcePath": "D:/Programming/Active_Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol",
   "ast": {
-    "absolutePath": "/D/Programming/Active Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol",
+    "absolutePath": "/D/Programming/Active_Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol",
     "exportedSymbols": {
       "Migrations": [
         310
@@ -472,7 +472,7 @@
     "src": "33:364:1"
   },
   "legacyAST": {
-    "absolutePath": "/D/Programming/Active Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol",
+    "absolutePath": "/D/Programming/Active_Projects/VS Code/CreditX/Blockchain-Auth-Service/contracts/Migrations.sol",
     "exportedSymbols": {
       "Migrations": [
         310
@@ -890,12 +890,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x93ad867B35efFd887ea3231662072c20BECc9b73",
-      "transactionHash": "0xcc43842e02b18d33741af01149225d5ab35af62a6b2a2da3696f017d6aa53356"
+      "address": "0xD963073AF673649287eddc567F44d9F8D221c909",
+      "transactionHash": "0xe659b24b8142838b79fc9d01c3f5fdd8a83c66b4b39f150064d23a1d51d71c5b"
     }
   },
-  "schemaVersion": "3.2.5",
-  "updatedAt": "2020-09-26T07:01:10.670Z",
+  "schemaVersion": "3.3.1",
+  "updatedAt": "2020-11-01T03:41:01.140Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
